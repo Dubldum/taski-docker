@@ -9,7 +9,7 @@ SECRET_KEY = (
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['51.250.26.193', '127.0.0.1', 'localhost', 'dubldum.ddns.net']
 
 
 # Application definition
